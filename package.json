@@ -1,0 +1,23 @@
+{
+  "name": "workday-scheduler.3p-api",
+  "version": "1.0.0",
+  "description": "## Using the Work Day Scheduler Starter Code, indivudually implement the following USER story:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdebortoli/workday-scheduler.3P-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gdebortoli/workday-scheduler.3P-API/issues"
+  },
+  "homepage": "https://github.com/Gdebortoli/workday-scheduler.3P-API#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

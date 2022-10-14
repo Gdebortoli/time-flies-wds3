@@ -20,6 +20,8 @@
 * HTML 
 * CSS
 * jQuery
+* Node.js
+* Moment.js
 
 ## Assets 
 
