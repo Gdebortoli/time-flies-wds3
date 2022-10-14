@@ -6,7 +6,7 @@
 
 ## Acceptance Criteria
 
-GIVEN I am using a daily planner to create a schedule: 
+### GIVEN I am using a daily planner to create a schedule: 
 
 * WHEN I open the planner THEN the current day is displayed at the top of the calendar
 * WHEN I scroll down THEN I am presented with time blocks for standard business hours
@@ -15,7 +15,17 @@ GIVEN I am using a daily planner to create a schedule:
 * WHEN I click the save button for that time block THEN the text for that event is saved in local storage
 * WHEN I refresh the page THEN the saved events persist
 
-## Assets
+## Built Using
+
+* HTML 
+* CSS
+* jQuery
+
+## Assets 
+
+* Bootstrap
+* Google Fonts 
+* Font Awesome
 
 ### Screenshots
 
