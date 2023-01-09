@@ -14,7 +14,7 @@
 
 ## Objectives
 
-GIVEN I am using a daily planner to create a schedule: 
+Criteria to meet when creating a daily planner to organize my schedule: 
 
 * WHEN I open the planner THEN the current day is displayed at the top of the calendar
 * WHEN I scroll down THEN I am presented with time blocks for standard business hours
@@ -36,17 +36,17 @@ GIVEN I am using a daily planner to create a schedule:
 
 ### Screenshots
 
-This is the current day of the Calender Application
+This is the current date/time in the Calender Application
 
-![](./assets/####)
+![](./assets/images/####)
 
 This is what the time blooks look like and how they are color coded 
 
-![](./assets/####)
+![](./assets/images/####)
 
 This is what the new event from local storage being added looks like 
 
-![](./assets/####)
+![](./assets/images/####)
 
 
 ### Deployed Application 
