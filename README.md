@@ -37,7 +37,7 @@ GIVEN I am using a daily planner to create a schedule:
 ### Screenshots
 
 This is the current day of the Calender Application
-<!-- Make sure to resize the pictures so they fit appropriately  -->
+
 ![](./assets/####)
 
 This is what the time blooks look like and how they are color coded 
