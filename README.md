@@ -51,11 +51,15 @@ This is what the time blooks look like and how they are color coded
 
 ### Deployed Application 
 
-[Workday Scheduler Application Link]()
+[Workday Scheduler Application Link](https://gdebortoli.github.io/time-flies-wds3/)
 
 ## GitHub
 
-This site was build using [Github Pages]()
+This site was build using [Github Pages](https://github.com/Gdebortoli/time-flies-wds3)
+
+
+
+
 
 
 
