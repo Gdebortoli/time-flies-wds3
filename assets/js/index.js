@@ -1,6 +1,6 @@
 // Current date and time + hour using moment.js documentation
 let rightNow = moment().format('dddd, MMMM Do YYYY, h:mm a')
-let currentHour = moment().hour();
+let currentHour = moment().hour('h a');
 
 console.log(currentHour);
 // Display current date and time at the top of the page in the <p> element using jquery
