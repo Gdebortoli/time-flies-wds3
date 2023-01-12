@@ -1,6 +1,10 @@
 # Create a Work Day Scheduler using Third-Party APIs
 
-## Using the Work Day Scheduler Starter Code, indivudually implement the following USER story: 
+## Description
+
+Simple calendar application that allows the user to save events for each hour of the work-day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+USER story: 
 
 * AS AN employee with a busy schedule I WANT to add important events to a daily planner SO THAT I can manage my time effectively
 
@@ -14,7 +18,7 @@
 
 ## Objectives
 
-Criteria to meet when creating a daily planner to organize my schedule: 
+Criteria to meet when creating a daily planner to organize my work-day schedule: 
 
 * WHEN I open the planner THEN the current day is displayed at the top of the calendar
 * WHEN I scroll down THEN I am presented with time blocks for standard business hours
@@ -38,15 +42,11 @@ Criteria to meet when creating a daily planner to organize my schedule:
 
 This is the current date/time in the Calender Application
 
-![](./assets/images/####)
+![](./assets/images/DTsc.jpg)
 
 This is what the time blooks look like and how they are color coded 
 
-![](./assets/images/####)
-
-This is what the new event from local storage being added looks like 
-
-![](./assets/images/####)
+![](./assets/images/CalendarSC.jpg)
 
 
 ### Deployed Application 
