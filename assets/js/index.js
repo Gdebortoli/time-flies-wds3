@@ -1,6 +1,6 @@
 // Current date and time + hour using moment.js documentation
 let rightNow = moment().format('dddd, MMMM Do YYYY, h:mm a')
-let currentHour = moment().hour('h a');
+let currentHour = moment().hour();
 
 console.log(currentHour);
 // Display current date and time at the top of the page in the <p> element using jquery
@@ -43,7 +43,7 @@ $('.saveBtn').click(function(event) {
 
 // Load from local storage
 loadEvent = () => {
-    for (let i = 7; i < 18; i++) {
+    for (let i = 7; i < 19; i++) {
         let tasks = localStorage.getItem(i);
         $('#' + i).val(tasks);
     }
